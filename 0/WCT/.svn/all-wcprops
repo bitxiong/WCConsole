@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/appidjcefeoac4s/!svn/ver/7/0/WCT
+END
+urls.py
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/appidjcefeoac4s/!svn/ver/7/0/WCT/urls.py
+END
+settings.py
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/appidjcefeoac4s/!svn/ver/6/0/WCT/settings.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/appidjcefeoac4s/!svn/ver/3/0/WCT/__init__.py
+END
+wsgi.py
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/appidjcefeoac4s/!svn/ver/3/0/WCT/wsgi.py
+END
+date.py
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/appidjcefeoac4s/!svn/ver/3/0/WCT/date.py
+END

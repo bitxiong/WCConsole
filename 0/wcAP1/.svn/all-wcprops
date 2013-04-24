@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/appidjcefeoac4s/!svn/ver/7/0/wcAP1
+END
+tests.py
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/appidjcefeoac4s/!svn/ver/3/0/wcAP1/tests.py
+END
+contact.py
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/appidjcefeoac4s/!svn/ver/3/0/wcAP1/contact.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/appidjcefeoac4s/!svn/ver/3/0/wcAP1/__init__.py
+END
+admin.py
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/appidjcefeoac4s/!svn/ver/3/0/wcAP1/admin.py
+END
+views.py
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/appidjcefeoac4s/!svn/ver/7/0/wcAP1/views.py
+END
+models.py
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/appidjcefeoac4s/!svn/ver/3/0/wcAP1/models.py
+END
+search.py
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/appidjcefeoac4s/!svn/ver/3/0/wcAP1/search.py
+END
