@@ -25,5 +25,6 @@ urlpatterns = patterns('',
 	(r'^contact/$', contact),
     (r'^test/',test),
     (r'^crawl/',testCrawler),
-    (r'^gossip/',wcHook)
+    (r'^gossip/',wcHook),
+    (r'^cupsa/',wcHook),
 )

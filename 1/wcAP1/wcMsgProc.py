@@ -14,16 +14,20 @@ class wcMsgProccessor:
             log(wcMsg.msgHost)
   
             #msg is from onkeylive
-            if(wcMsg.msgHost == WEIBO_HOSTS['onkeylive']):
+            if(wcMsg.msgHost == WC_HOSTS['onkeylive']):
                 resp = self.sendToWeibo(wcMsg.msgContent)
                 log(resp)
                 response.resContent = resp
                 
             #msg is from gossip_cuhk
-            elif (wcMsg.msgHost == WEIBO_HOSTS['gossip_cuhk']):
+            elif (wcMsg.msgHost == WC_HOSTS['gossip_cuhk']):
                 resp = self.sendToWeibo(wcMsg.msgContent)
                 log(resp)
                 response.resContent = resp
+                
+            #msg is from the CUPSA official platform
+            elif (wcMsg.msgHost == WC_HOSTS['cupsa']):
+                response.resContent = 'This the official public platform of CUPSA. You inquiry is well received. Thanks.'
         
         
         
